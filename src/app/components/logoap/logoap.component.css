@@ -1,0 +1,25 @@
+#container{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    margin-left: 0cm;
+    margin-right: 0cm;
+}
+button{
+    background-color: rgb(6, 175, 6);
+    font-weight: bold;
+    align-self: start;
+    color: antiquewhite;
+}
+img{
+    width: 50px;
+    align-items: center;
+    
+}
+#logoap{
+    width: 150px;
+    float: left;
+}
+.redes{
+   float: right;
+}
